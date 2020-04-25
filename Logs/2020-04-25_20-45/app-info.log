@@ -1,0 +1,69 @@
+2020-04-25T20:45:43.933+0300 INFO 1- Keytorc's N11 test scenario begins.
+2020-04-25T20:45:43.940+0300 INFO 2- Browser Name: FIREFOX is getting ready to run.
+2020-04-25T20:46:22.120+0300 INFO 3- Browser Name: FIREFOX: N11 tests started.
+2020-04-25T20:46:22.122+0300 INFO 4- WebDriver created for N11 Tests
+
+2020-04-25T20:46:22.123+0300 INFO 5- Starting test scenarios in N11 Tests
+2020-04-25T20:46:22.123+0300 INFO  	5.1- HomePage test scenario in N11 Tests
+2020-04-25T20:46:22.155+0300 INFO  		HomePage test created for N11 Tests
+2020-04-25T20:46:22.155+0300 INFO  			 1. Step: Visiting 'Homepage'
+2020-04-25T20:46:29.936+0300 INFO  			 2. Step: Clicking the 'OK' button for closing GDPR popup
+2020-04-25T20:46:29.985+0300 INFO  				 ---> Current Window State       : complete
+2020-04-25T20:46:35.471+0300 INFO  				 Bypass the GDPR popup
+2020-04-25T20:46:35.471+0300 INFO  			 3. Step: Checking 'Homepage' visit
+2020-04-25T20:46:35.474+0300 INFO  			 4. Step: Clicking the 'Login' button
+2020-04-25T20:46:36.127+0300 INFO  		HomePage test completed for N11 Tests
+
+2020-04-25T20:46:36.129+0300 INFO  	5.2- LoginPage test scenario in N11 Tests
+2020-04-25T20:46:36.132+0300 INFO  		LoginPage test created for N11 Tests
+2020-04-25T20:46:36.133+0300 INFO  			 1. Step: Email address is writing to email area
+2020-04-25T20:46:36.169+0300 INFO  				 ---> Current Window State       : complete
+2020-04-25T20:46:36.681+0300 INFO  			 2. Step: Password is writing to password area
+2020-04-25T20:46:37.009+0300 INFO  			 3. Step: Clicking the 'Login' button
+2020-04-25T20:46:39.719+0300 INFO  		LoginPage test completed for N11 Tests
+
+2020-04-25T20:46:39.720+0300 INFO  	5.3- HomePageWithLogin test scenario in N11 Tests
+2020-04-25T20:46:39.720+0300 INFO  		HomePage test created for N11 Tests
+2020-04-25T20:46:39.721+0300 INFO  			 1. Step: The given item 'samsung' is writing to search bar.
+2020-04-25T20:46:39.758+0300 INFO  				 ---> Current Window State       : complete
+2020-04-25T20:46:39.930+0300 INFO  			 2. Step: Clicking the 'Search' button
+2020-04-25T20:46:43.971+0300 INFO  		HomePageWithLogin test completed for N11 Tests
+
+2020-04-25T20:46:43.972+0300 INFO  	5.4- SearchPage test scenario in N11 Tests
+2020-04-25T20:46:43.974+0300 INFO  		SearchPage test created for N11 Tests
+2020-04-25T20:46:43.974+0300 INFO  			 1. Step: Checking is there a result for the searched item
+2020-04-25T20:46:44.064+0300 INFO  				 ---> Current Window State       : complete
+2020-04-25T20:46:44.284+0300 INFO  			 2. Step: Scrolling down to pages area
+2020-04-25T20:46:44.328+0300 INFO  			 3. Step: Clicking the 'Second Page' button
+2020-04-25T20:46:48.335+0300 INFO  			 4. Step: Checking the opening status of 'Second Page'
+2020-04-25T20:46:48.392+0300 INFO  				 ---> Current Window State       : complete
+2020-04-25T20:46:48.530+0300 INFO  			 5. Step: Scrolling down to reach list of items
+2020-04-25T20:46:48.620+0300 INFO  			 6. Step: Adding the third item to 'My Favorites'
+2020-04-25T20:46:49.067+0300 INFO  			 7. Step: Clicking the 'OK' button for closing the popup
+2020-04-25T20:46:55.147+0300 INFO  				 Bypass the popup
+2020-04-25T20:46:55.147+0300 INFO  			 8. Step: Scrolling up to 'My Account' button
+2020-04-25T20:46:55.180+0300 INFO  			 9. Step: Clicking the 'My Favorites / Lists' button
+2020-04-25T20:46:55.590+0300 INFO  		SearchPage test completed for N11 Tests
+
+2020-04-25T20:46:55.590+0300 INFO  	5.5- WishListPage test scenario in N11 Tests
+2020-04-25T20:46:55.592+0300 INFO  		MyWishListPage test created for N11 Tests
+2020-04-25T20:46:55.592+0300 INFO  			 1. Step: Clicking the 'My Favorites List'
+2020-04-25T20:46:55.602+0300 INFO  				 ---> Current Window State       : complete
+2020-04-25T20:47:27.096+0300 INFO  		MyWishListPage test completed for N11 Tests
+
+2020-04-25T20:47:27.097+0300 INFO  	5.6- MyFavoritesPage test scenario in N11 Tests
+2020-04-25T20:47:27.099+0300 INFO  		MyFavoritesPage test created for N11 Tests
+2020-04-25T20:47:27.100+0300 INFO  			 1. Step: Checking the selected item added status to 'Favorites'
+2020-04-25T20:47:27.131+0300 INFO  				 ---> Current Window State       : complete
+2020-04-25T20:47:27.228+0300 INFO  			 2. Step: Deleting the selected item from 'Favorites'
+2020-04-25T20:47:27.623+0300 INFO  			 3. Step: Clicking the 'OK' button for closing the popup
+2020-04-25T20:47:30.406+0300 INFO  			 4. Step: Checking the selected item deleted status from 'Favorites'
+2020-04-25T20:47:30.453+0300 INFO  				 ---> Current Window State       : interactive
+2020-04-25T20:47:30.988+0300 INFO  				 ---> Current Window State       : interactive
+2020-04-25T20:47:31.539+0300 INFO  				 ---> Current Window State       : interactive
+2020-04-25T20:47:32.055+0300 INFO  				 ---> Current Window State       : complete
+2020-04-25T20:47:32.149+0300 INFO  		MyFavoritesPage test completed for N11 Tests
+
+2020-04-25T20:47:34.609+0300 INFO 6- Test Complete Time:72491, Browser Name: FIREFOX is closed
+
+

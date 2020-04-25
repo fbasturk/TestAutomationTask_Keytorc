@@ -1,0 +1,21 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.19t|$
+Arch|x86_64-msvc|$
+
+[PLUGINS]
+
+[INVALID]
+C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect32.dll|$
+1584312616000|$
+C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect64.dll|$
+1584312616000|$
+C:\Program Files\Microsoft Office\root\Office16\NPSPWRAP.DLL|$
+1578722632836|$
+C:\Program Files\Java\jre1.8.0_181\bin\plugin2\npjp2.dll|$
+1573039695065|$
+C:\Program Files\Java\jre1.8.0_181\bin\dtplugin\npdeployJava1.dll|$
+1573039694700|$
+C:\Users\furkan.basturk\AppData\Roaming\Zoom\bin\npzoomplugin.dll|$
+1585549501158|$
